@@ -6,13 +6,13 @@ To install dependencies:
 bun install
 ```
 
+It's possible to install all of this stuff with npm, yarn, pnpm, etc., but I prefer `bun` because it's trendy and fast and neat.
+
 To run, I recommend using Vercel:
 
 ```bash
 vercel run dev
 ```
-
-It's possible to run all of this stuff with npm, yarn, pnpm, etc., but I prefer `bun` because it's trendy and fast and neat.
 
 # Shortcuts
 
