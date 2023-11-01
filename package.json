@@ -1,0 +1,18 @@
+{
+  "name": "scriptyscripts",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "dependencies": {
+    "@grpc/grpc-js": "^1.9.8",
+    "@grpc/proto-loader": "^0.7.10",
+    "@vercel/node": "^3.0.7",
+    "axios": "^1.6.0",
+    "dayjs": "^1.11.10",
+    "google-protobuf": "^3.21.2",
+    "gtfs-realtime-bindings": "^1.1.1",
+    "node-fetch": "^3.3.2"
+  }
+}
