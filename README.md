@@ -23,11 +23,11 @@ The `stationTimes.js` endpoint (accessible here: `https://scriptyscripts.vercel.
 ```JSON
 {
     "stations": ["L01S", "A31N"], // these can be any relevant stations. You can view the absurd JSON document of all station info in the stationTimes.js file
-    "lines": ["L", "A"] // these can be any releavnt lines. 'A', 'G', etc.
+    "lines": ["L", "A"] // these can be any relevant lines. 'A', 'G', etc.
 }
 ```
 
-It is currently hosted on Vercel's hobby tier. If it gets abused I'll change its structure / remove it, but for now it's a fun little thing to play with and I don't pay for it. Go wild.
+The above endpoint is currently hosted on Vercel's hobby tier. If usage gets abused, I'll change its structure / remove it, but for now it's a fun little thing to play with and I don't pay for it. Go wild.
 
 Anyway, you'll get back a JSON object that looks like this:
 
